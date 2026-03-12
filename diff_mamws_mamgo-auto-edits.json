@@ -1,1 +1,634 @@
-[]
+[
+  {
+    "sena": "נביאים ראשונים",
+    "bk24na_slash_chap_id": "ספר יהושע/א",
+    "vrnu": "יא",
+    "column": "E",
+    "search_str": "אֱלֹֽהֵיכֶ֔ם",
+    "replace_str": "אֱלֹהֵיכֶ֔ם"
+  },
+  {
+    "sena": "נביאים ראשונים",
+    "bk24na_slash_chap_id": "ספר יהושע/ג",
+    "vrnu": "ו",
+    "column": "E",
+    "search_str": "וַיֵּֽלְכ֖וּ",
+    "replace_str": "וַיֵּלְכ֖וּ"
+  },
+  {
+    "sena": "נביאים ראשונים",
+    "bk24na_slash_chap_id": "ספר יהושע/ג",
+    "vrnu": "ח",
+    "column": "E",
+    "search_str": "נֹֽשְׂאֵ֥י",
+    "replace_str": "נֹשְׂאֵ֥י"
+  },
+  {
+    "sena": "נביאים ראשונים",
+    "bk24na_slash_chap_id": "ספר יהושע/ג",
+    "vrnu": "יד",
+    "column": "E",
+    "search_str": "לַֽעֲבֹ֖ר",
+    "replace_str": "לַעֲבֹ֖ר"
+  },
+  {
+    "sena": "נביאים ראשונים",
+    "bk24na_slash_chap_id": "ספר יהושע/ג",
+    "vrnu": "טז",
+    "column": "E",
+    "search_str": "וַיַּֽעַמְד֡וּ",
+    "replace_str": "וַיַּעַמְד֡וּ"
+  },
+  {
+    "sena": "נביאים ראשונים",
+    "bk24na_slash_chap_id": "ספר יהושע/ג",
+    "vrnu": "טז",
+    "column": "E",
+    "search_str": "{{כו\"ק|באדם|מֵֽאָדָ֤ם}}",
+    "replace_str": "{{כו\"ק|באדם|מֵאָדָ֤ם}}"
+  },
+  {
+    "sena": "נביאים ראשונים",
+    "bk24na_slash_chap_id": "ספר יהושע/ד",
+    "vrnu": "ו",
+    "column": "E",
+    "search_str": "הָֽאֲבָנִ֥ים",
+    "replace_str": "הָאֲבָנִ֥ים"
+  },
+  {
+    "sena": "נביאים ראשונים",
+    "bk24na_slash_chap_id": "ספר יהושע/ד",
+    "vrnu": "ח",
+    "column": "E",
+    "search_str": "בְּנֵֽי־יִשְׂרָאֵל֮",
+    "replace_str": "בְּנֵי־יִשְׂרָאֵל֮"
+  },
+  {
+    "sena": "נביאים ראשונים",
+    "bk24na_slash_chap_id": "ספר יהושע/ד",
+    "vrnu": "י",
+    "column": "E",
+    "search_str": "הָֽאָר֗וֹן",
+    "replace_str": "הָאָר֗וֹן"
+  },
+  {
+    "sena": "נביאים ראשונים",
+    "bk24na_slash_chap_id": "ספר יהושע/ד",
+    "vrnu": "יא",
+    "column": "E",
+    "search_str": "כַּֽאֲשֶׁר־תַּ֥ם",
+    "replace_str": "כַּאֲשֶׁר־תַּ֥ם"
+  },
+  {
+    "sena": "נביאים ראשונים",
+    "bk24na_slash_chap_id": "ספר יהושע/ו",
+    "vrnu": "ח",
+    "column": "E",
+    "search_str": "וְתָֽקְע֖וּ",
+    "replace_str": "וְתָקְע֖וּ"
+  },
+  {
+    "sena": "נביאים ראשונים",
+    "bk24na_slash_chap_id": "ספר יהושע/ז",
+    "vrnu": "א",
+    "column": "E",
+    "search_str": "וַיִּֽחַר־אַ֥ף",
+    "replace_str": "וַיִּחַר־אַ֥ף"
+  },
+  {
+    "sena": "נביאים ראשונים",
+    "bk24na_slash_chap_id": "ספר יהושע/ז",
+    "vrnu": "ב",
+    "column": "E",
+    "search_str": "הָֽאֲנָשִׁ֔ים",
+    "replace_str": "הָאֲנָשִׁ֔ים"
+  },
+  {
+    "sena": "נביאים ראשונים",
+    "bk24na_slash_chap_id": "ספר יהושע/ז",
+    "vrnu": "כ",
+    "column": "E",
+    "search_str": "אָֽנֹכִ֤י",
+    "replace_str": "אָנֹכִ֤י"
+  },
+  {
+    "sena": "נביאים ראשונים",
+    "bk24na_slash_chap_id": "ספר יהושע/ח",
+    "vrnu": "טז",
+    "column": "E",
+    "search_str": "אַֽחֲרֵ֣י",
+    "replace_str": "אַחֲרֵ֣י"
+  },
+  {
+    "sena": "נביאים ראשונים",
+    "bk24na_slash_chap_id": "ספר יהושע/ח",
+    "vrnu": "כ",
+    "column": "E",
+    "search_str": "אֶל־הָֽרוֹדֵֽף׃",
+    "replace_str": "אֶל־הָרוֹדֵֽף׃"
+  },
+  {
+    "sena": "נביאים ראשונים",
+    "bk24na_slash_chap_id": "ספר יהושע/ח",
+    "vrnu": "כז",
+    "column": "E",
+    "search_str": "{{נוסח|בָּֽזְﬞז֥וּ|2=א=בָּֽזֲז֥וּ",
+    "replace_str": "{{נוסח|בָּזְﬞז֥וּ|2=א=בָּזֲז֥וּ"
+  },
+  {
+    "sena": "נביאים ראשונים",
+    "bk24na_slash_chap_id": "ספר יהושע/ח",
+    "vrnu": "לא",
+    "column": "E",
+    "search_str": "כַּֽאֲשֶׁ֣ר",
+    "replace_str": "כַּאֲשֶׁ֣ר"
+  },
+  {
+    "sena": "נביאים ראשונים",
+    "bk24na_slash_chap_id": "ספר יהושע/ט",
+    "vrnu": "ד",
+    "column": "E",
+    "search_str": "וַיַּֽעֲשׂ֤וּ",
+    "replace_str": "וַיַּעֲשׂ֤וּ"
+  },
+  {
+    "sena": "נביאים ראשונים",
+    "bk24na_slash_chap_id": "ספר יהושע/י",
+    "vrnu": "ה",
+    "column": "E",
+    "search_str": "יְרֽוּשָׁל{{מ:ירושלם|ַ|֜}}ם",
+    "replace_str": "יְרוּשָׁל{{מ:ירושלם|ַ|֜}}ם"
+  },
+  {
+    "sena": "נביאים ראשונים",
+    "bk24na_slash_chap_id": "ספר יהושע/יב",
+    "vrnu": "ה",
+    "column": "E",
+    "search_str": "מֶֽלֶךְ־חֶשְׁבּֽוֹן׃",
+    "replace_str": "מֶלֶךְ־חֶשְׁבּֽוֹן׃"
+  },
+  {
+    "sena": "נביאים ראשונים",
+    "bk24na_slash_chap_id": "ספר יהושע/יב",
+    "vrnu": "י",
+    "column": "E",
+    "search_str": "יְרֽוּשָׁל{{מ:ירושלם|ַ|֙}}ם֙",
+    "replace_str": "יְרוּשָׁל{{מ:ירושלם|ַ|֙}}ם֙"
+  },
+  {
+    "sena": "נביאים ראשונים",
+    "bk24na_slash_chap_id": "ספר יהושע/יג",
+    "vrnu": "ג",
+    "column": "E",
+    "search_str": "הָֽעַזָּתִ֤י",
+    "replace_str": "הָעַזָּתִ֤י"
+  },
+  {
+    "sena": "נביאים ראשונים",
+    "bk24na_slash_chap_id": "ספר יהושע/יג",
+    "vrnu": "ז",
+    "column": "E",
+    "search_str": "וַֽחֲצִ֖י",
+    "replace_str": "וַחֲצִ֖י"
+  },
+  {
+    "sena": "נביאים ראשונים",
+    "bk24na_slash_chap_id": "ספר יהושע/יג",
+    "vrnu": "ל",
+    "column": "E",
+    "search_str": "מֶֽלֶךְ־הַבָּשָׁ֗ן",
+    "replace_str": "מֶלֶךְ־הַבָּשָׁ֗ן"
+  },
+  {
+    "sena": "נביאים ראשונים",
+    "bk24na_slash_chap_id": "ספר יהושע/יד",
+    "vrnu": "ז",
+    "column": "E",
+    "search_str": "{{נוסח|עִם־לְֽבָבִֽי|2==א וכן",
+    "replace_str": "{{נוסח|עִם־לְבָבִֽי|2==א?,ל (אין"
+  },
+  {
+    "sena": "נביאים ראשונים",
+    "bk24na_slash_chap_id": "ספר יהושע/יד",
+    "vrnu": "ז",
+    "column": "E",
+    "search_str": "במג\"ה",
+    "replace_str": "געיה), וכך אצל ברויאר וכמו כן בדפוסים.{{ש}}א?=עִם־לְֽבָבִֽי"
+  },
+  {
+    "sena": "נביאים ראשונים",
+    "bk24na_slash_chap_id": "ספר יהושע/יד",
+    "vrnu": "ז",
+    "column": "E",
+    "search_str": "בלמ\"ד){{ש}}ברויאר=עִם־לְבָבִֽי",
+    "replace_str": "באות"
+  },
+  {
+    "sena": "נביאים ראשונים",
+    "bk24na_slash_chap_id": "ספר יהושע/יד",
+    "vrnu": "ז",
+    "column": "E",
+    "search_str": "(בלי",
+    "replace_str": "ל?);"
+  },
+  {
+    "sena": "נביאים ראשונים",
+    "bk24na_slash_chap_id": "ספר יהושע/יד",
+    "vrnu": "ז",
+    "column": "E",
+    "search_str": "געיה) וכן",
+    "replace_str": "בכתר יש"
+  },
+  {
+    "sena": "נביאים ראשונים",
+    "bk24na_slash_chap_id": "ספר יהושע/יד",
+    "vrnu": "ז",
+    "column": "E",
+    "search_str": "במכון",
+    "replace_str": "דיו"
+  },
+  {
+    "sena": "נביאים ראשונים",
+    "bk24na_slash_chap_id": "ספר יהושע/יד",
+    "vrnu": "ז",
+    "column": "E",
+    "search_str": "ממרא.}}׃",
+    "replace_str": "מתחת לאות למ\"ד משמאל לנקודות השווא, ואולי הייתה כוונה לכתוב כאן געיה. כך הכריעו במג\"ה בדפוס, אבל במהדורת מג\"ה הדיגיטלית אין געיה.}}"
+  },
+  {
+    "sena": "נביאים ראשונים",
+    "bk24na_slash_chap_id": "ספר יהושע/טו",
+    "vrnu": "כא",
+    "column": "E",
+    "search_str": "הֶֽעָרִ֗ים",
+    "replace_str": "הֶעָרִ֗ים"
+  },
+  {
+    "sena": "נביאים ראשונים",
+    "bk24na_slash_chap_id": "ספר יהושע/טו",
+    "vrnu": "לה",
+    "column": "E",
+    "search_str": "וַֽעֲדֻלָּ֔ם",
+    "replace_str": "וַעֲדֻלָּ֔ם"
+  },
+  {
+    "sena": "נביאים ראשונים",
+    "bk24na_slash_chap_id": "ספר יהושע/טו",
+    "vrnu": "לו",
+    "column": "E",
+    "search_str": "וַֽעֲדִיתַ֔יִם",
+    "replace_str": "וַעֲדִיתַ֔יִם"
+  },
+  {
+    "sena": "נביאים ראשונים",
+    "bk24na_slash_chap_id": "ספר יהושע/טז",
+    "vrnu": "ד",
+    "column": "E",
+    "search_str": "בְנֵֽי־יוֹסֵ֖ף",
+    "replace_str": "בְנֵי־יוֹסֵ֖ף"
+  },
+  {
+    "sena": "נביאים ראשונים",
+    "bk24na_slash_chap_id": "ספר יהושע/יז",
+    "vrnu": "יג",
+    "column": "E",
+    "search_str": "הֽוֹרִישֽׁוֹ׃",
+    "replace_str": "הוֹרִישֽׁוֹ׃"
+  },
+  {
+    "sena": "נביאים ראשונים",
+    "bk24na_slash_chap_id": "ספר יהושע/יח",
+    "vrnu": "כ",
+    "column": "E",
+    "search_str": "לִגְבֽוּלֹתֶ֛יהָ",
+    "replace_str": "לִגְבוּלֹתֶ֛יהָ"
+  },
+  {
+    "sena": "נביאים ראשונים",
+    "bk24na_slash_chap_id": "ספר יהושע/יח",
+    "vrnu": "כא",
+    "column": "E",
+    "search_str": "הֶֽעָרִ֗ים",
+    "replace_str": "הֶעָרִ֗ים"
+  },
+  {
+    "sena": "נביאים ראשונים",
+    "bk24na_slash_chap_id": "ספר יהושע/יט",
+    "vrnu": "ט",
+    "column": "E",
+    "search_str": "בְנֵֽי־שִׁמְע֖וֹן",
+    "replace_str": "בְנֵי־שִׁמְע֖וֹן"
+  },
+  {
+    "sena": "נביאים ראשונים",
+    "bk24na_slash_chap_id": "ספר יהושע/יט",
+    "vrnu": "טז",
+    "column": "E",
+    "search_str": "נַֽחֲלַ֥ת",
+    "replace_str": "נַחֲלַ֥ת"
+  },
+  {
+    "sena": "נביאים ראשונים",
+    "bk24na_slash_chap_id": "ספר יהושע/יט",
+    "vrnu": "לט",
+    "column": "E",
+    "search_str": "הֶֽעָרִ֖ים",
+    "replace_str": "הֶעָרִ֖ים"
+  },
+  {
+    "sena": "נביאים ראשונים",
+    "bk24na_slash_chap_id": "ספר יהושע/כ",
+    "vrnu": "ד",
+    "column": "E",
+    "search_str": "וְאָֽסְפ֨וּ",
+    "replace_str": "וְאָסְפ֨וּ"
+  },
+  {
+    "sena": "נביאים ראשונים",
+    "bk24na_slash_chap_id": "ספר יהושע/כא",
+    "vrnu": "ה",
+    "column": "E",
+    "search_str": "הַנּֽוֹתָרִ֗ים",
+    "replace_str": "הַנּוֹתָרִ֗ים"
+  },
+  {
+    "sena": "נביאים ראשונים",
+    "bk24na_slash_chap_id": "ספר יהושע/כא",
+    "vrnu": "יג",
+    "column": "E",
+    "search_str": "אַֽהֲרֹ֣ן",
+    "replace_str": "אַהֲרֹ֣ן"
+  },
+  {
+    "sena": "נביאים ראשונים",
+    "bk24na_slash_chap_id": "ספר יהושע/כא",
+    "vrnu": "יט",
+    "column": "E",
+    "search_str": "בְנֵֽי־אַהֲרֹ֖ן",
+    "replace_str": "בְנֵי־אַהֲרֹ֖ן"
+  },
+  {
+    "sena": "נביאים ראשונים",
+    "bk24na_slash_chap_id": "ספר יהושע/כא",
+    "vrnu": "כ",
+    "column": "E",
+    "search_str": "הַנּֽוֹתָרִ֖ים",
+    "replace_str": "הַנּוֹתָרִ֖ים"
+  },
+  {
+    "sena": "נביאים ראשונים",
+    "bk24na_slash_chap_id": "ספר יהושע/כא",
+    "vrnu": "כז",
+    "column": "E",
+    "search_str": "גֵֽרְשׁוֹן֮",
+    "replace_str": "גֵרְשׁוֹן֮"
+  },
+  {
+    "sena": "נביאים ראשונים",
+    "bk24na_slash_chap_id": "ספר יהושע/כב",
+    "vrnu": "ד",
+    "column": "E",
+    "search_str": "כַּֽאֲשֶׁ֖ר",
+    "replace_str": "כַּאֲשֶׁ֖ר"
+  },
+  {
+    "sena": "נביאים ראשונים",
+    "bk24na_slash_chap_id": "ספר יהושע/כב",
+    "vrnu": "ה",
+    "column": "E",
+    "search_str": "עֶֽבֶד־יְהֹוָה֒",
+    "replace_str": "עֶבֶד־יְהֹוָה֒"
+  },
+  {
+    "sena": "נביאים ראשונים",
+    "bk24na_slash_chap_id": "ספר יהושע/כב",
+    "vrnu": "ז",
+    "column": "E",
+    "search_str": "וְלַֽחֲצִ֣י{{מ:לגרמיה-2}}",
+    "replace_str": "וְלַחֲצִ֣י{{מ:לגרמיה-2}}"
+  },
+  {
+    "sena": "נביאים ראשונים",
+    "bk24na_slash_chap_id": "ספר יהושע/כב",
+    "vrnu": "כד",
+    "column": "E",
+    "search_str": "יֹֽאמְר֨וּ",
+    "replace_str": "יֹאמְר֨וּ"
+  },
+  {
+    "sena": "נביאים ראשונים",
+    "bk24na_slash_chap_id": "ספר יהושע/כג",
+    "vrnu": "יא",
+    "column": "E",
+    "search_str": "אֱלֹֽהֵיכֶֽם׃",
+    "replace_str": "אֱלֹהֵיכֶֽם׃"
+  },
+  {
+    "sena": "נביאים ראשונים",
+    "bk24na_slash_chap_id": "ספר יהושע/כד",
+    "vrnu": "א",
+    "column": "E",
+    "search_str": "וַיֶּֽאֱסֹ֧ף",
+    "replace_str": "וַיֶּאֱסֹ֧ף"
+  },
+  {
+    "sena": "נביאים ראשונים",
+    "bk24na_slash_chap_id": "ספר יהושע/כד",
+    "vrnu": "ג",
+    "column": "E",
+    "search_str": "וָֽאוֹלֵ֥ךְ",
+    "replace_str": "וָאוֹלֵ֥ךְ"
+  },
+  {
+    "sena": "נביאים ראשונים",
+    "bk24na_slash_chap_id": "ספר יהושע/כד",
+    "vrnu": "ד",
+    "column": "E",
+    "search_str": "וָֽאֶתֵּ֨ן",
+    "replace_str": "וָאֶתֵּ֨ן"
+  },
+  {
+    "sena": "ספרי אמ\"ת",
+    "bk24na_slash_chap_id": "ספר תהלים/ז",
+    "vrnu": "ה",
+    "column": "E",
+    "search_str": "{{נוסח|צֽוֹרְﬞרִ֣י|2=א=צֽוֹרֲרִ֣י",
+    "replace_str": "{{נוסח|צוֹרְﬞרִ֣י|2=א=צוֹרֲרִ֣י"
+  },
+  {
+    "sena": "ספרי אמ\"ת",
+    "bk24na_slash_chap_id": "ספר תהלים/כז",
+    "vrnu": "ד",
+    "column": "E",
+    "search_str": "בְּהֵֽיכָלֽוֹ׃",
+    "replace_str": "בְּהֵיכָלֽוֹ׃"
+  },
+  {
+    "sena": "ספרי אמ\"ת",
+    "bk24na_slash_chap_id": "ספר תהלים/לט",
+    "vrnu": "יג",
+    "column": "E",
+    "search_str": "{{נוסח|שִׁ֥מְﬞעָֽה|2=א=שִׁ֥מֳעָֽה (חטף קמץ)}}{{מ:מקף אפור}}תְפִלָּתִ֨י{{מ:לגרמיה-2}} יְהֹוָ֡ה וְשַׁוְעָתִ֨י{{מ:לגרמיה-2}} {{מ:צינור|הַאֲזִינָה֮|הַאֲזִ֮ינָה֮}}{{ר1}}אֶֽל־דִּמְעָתִ֗י אַֽל־תֶּ֫חֱרַ֥שׁ{{ר3}}כִּ֤י גֵ֣ר אָנֹכִ֣י עִמָּ֑ךְ{{ר1}}תּ֝וֹשָׁ֗ב כְּכׇל־אֲבוֹתָֽי׃",
+    "replace_str": "{{נוסח|שִׁ֥מְﬞעָֽה{{מ:מקף אפור}}תְפִלָּתִ֨י{{מ:לגרמיה-2}}|2=א=<שִׁ֥מֳעָֽה תְפִלָּתִ֨י׀> (חטף קמץ באות מ\"ם) או <שִׁ֥מֲעָֽה תְפִלָּתִ֨י׀> (חטף פתח); בצילום אפשר להבחין היטב בנקודת חטף מטושטשת. לפי ברויאר חטף קמץ ולפי מג\"ה חטף פתח.{{ש}}ל=<שִֽׁמְעָ֥ה־תְפִלָּתִ֨י׀> (מ\"ם שוואה ומקף)}} יְהֹוָ֡ה וְשַׁוְעָתִ֨י{{מ:לגרמיה-2}} {{מ:צינור|הַאֲזִינָה֮|הַאֲזִ֮ינָה֮}}{{ר1}}אֶֽל־דִּמְעָתִ֗י אַֽל־תֶּ֫חֱרַ֥שׁ{{ר3}}כִּ֤י גֵ֣ר אָנֹכִ֣י עִמָּ֑ךְ{{ר1}}תּ֝וֹשָׁ֗ב כְּכׇל־אֲבוֹתָֽי׃"
+  },
+  {
+    "sena": "ספרי אמ\"ת",
+    "bk24na_slash_chap_id": "ספר תהלים/נ",
+    "vrnu": "א",
+    "column": "E",
+    "search_str": "פתוחה}}אֵ֤ל{{מ:לגרמיה-2}}",
+    "replace_str": "פתוחה}}אֵ֤ל{{נוסח|{{מ:פסק}}|2=ראו"
+  },
+  {
+    "sena": "ספרי אמ\"ת",
+    "bk24na_slash_chap_id": "ספר תהלים/נ",
+    "vrnu": "א",
+    "column": "E",
+    "search_str": "אֱֽלֹהִ֡ים",
+    "replace_str": "ב{{מ:קישור בהערה|https://archive.org/details/Ginsburg_The-Massorah-Compiled-from-Manuscripts_1880-1905/page/n654/mode/1up|רשימת הפסק של גינצבורג}}. בסימנים קבעו שהוא קו של לגרמיה.}}אֱֽלֹהִ֡ים"
+  },
+  {
+    "sena": "ספרי אמ\"ת",
+    "bk24na_slash_chap_id": "ספר תהלים/נה",
+    "vrnu": "כ",
+    "column": "E",
+    "search_str": "יִשְׁמַ֤ע{{מ:לגרמיה-2}}",
+    "replace_str": "יִשְׁמַ֤ע{{נוסח|{{מ:פסק}}|2=ראו"
+  },
+  {
+    "sena": "ספרי אמ\"ת",
+    "bk24na_slash_chap_id": "ספר תהלים/נה",
+    "vrnu": "כ",
+    "column": "E",
+    "search_str": "אֵ֨ל{{מ:לגרמיה-2}}",
+    "replace_str": "ב{{מ:קישור בהערה|https://archive.org/details/Ginsburg_The-Massorah-Compiled-from-Manuscripts_1880-1905/page/n654/mode/1up|רשימת הפסק של גינצבורג}}; רק הקו השני (אחרי \"אֵ֨ל\") מובא ב{{מ:קישור בהערה|https://archive.org/details/Ginsburg_The-Massorah-Compiled-from-Manuscripts_1880-1905/page/n643/mode/1up|רשימת הלגרמיה שלו}}. בסימנים קבעו שכאן הוא קו של לגרמיה.}}אֵ֨ל{{מ:לגרמיה-2}}"
+  },
+  {
+    "sena": "ספרי אמ\"ת",
+    "bk24na_slash_chap_id": "ספר תהלים/סב",
+    "vrnu": "יב",
+    "column": "E",
+    "search_str": "לֵֽאלֹהִֽים׃",
+    "replace_str": "לֵאלֹהִֽים׃"
+  },
+  {
+    "sena": "ספרי אמ\"ת",
+    "bk24na_slash_chap_id": "ספר תהלים/סח",
+    "vrnu": "יא",
+    "column": "E",
+    "search_str": "לֶֽעָנִ֣י",
+    "replace_str": "לֶעָנִ֣י"
+  },
+  {
+    "sena": "ספרי אמ\"ת",
+    "bk24na_slash_chap_id": "ספר תהלים/סח",
+    "vrnu": "לו",
+    "column": "E",
+    "search_str": "נֹתֵ֨ן{{מ:לגרמיה-2}}",
+    "replace_str": "נֹתֵ֨ן{{נוסח|{{מ:פסק}}|2=ראו"
+  },
+  {
+    "sena": "ספרי אמ\"ת",
+    "bk24na_slash_chap_id": "ספר תהלים/סח",
+    "vrnu": "לו",
+    "column": "E",
+    "search_str": "עֹ֖ז",
+    "replace_str": "ב{{מ:קישור בהערה|https://archive.org/details/Ginsburg_The-Massorah-Compiled-from-Manuscripts_1880-1905/page/n654/mode/1up|רשימת הפסק של גינצבורג}}. בסימנים קבעו שהוא קו של לגרמיה.}}עֹ֖ז"
+  },
+  {
+    "sena": "ספרי אמ\"ת",
+    "bk24na_slash_chap_id": "ספר תהלים/עא",
+    "vrnu": "ה",
+    "column": "E",
+    "search_str": "כִּֽי־אַתָּ֥ה",
+    "replace_str": "כִּי־אַתָּ֥ה"
+  },
+  {
+    "sena": "ספרי אמ\"ת",
+    "bk24na_slash_chap_id": "ספר תהלים/עד",
+    "vrnu": "כא",
+    "column": "E",
+    "search_str": "יְֽהַלְל֥וּ",
+    "replace_str": "{{נוסח|יְֽהַלְﬞל֥וּ|2=א=יְֽהַלֲל֥וּ (חטף)}}"
+  },
+  {
+    "sena": "ספרי אמ\"ת",
+    "bk24na_slash_chap_id": "ספר תהלים/פו",
+    "vrnu": "ב",
+    "column": "E",
+    "search_str": "נַפְשִׁי֮{{ר0}}כִּֽי־חָסִ֢יד",
+    "replace_str": "נַפְשִׁי֮{{ר0}}כִּי־חָסִ֢יד"
+  },
+  {
+    "sena": "ספרי אמ\"ת",
+    "bk24na_slash_chap_id": "ספר תהלים/פו",
+    "vrnu": "ה",
+    "column": "E",
+    "search_str": "לְכׇל־קֹֽרְאֶֽיךָ׃",
+    "replace_str": "לְכׇל־קֹרְאֶֽיךָ׃"
+  },
+  {
+    "sena": "ספרי אמ\"ת",
+    "bk24na_slash_chap_id": "ספר תהלים/צג",
+    "vrnu": "ב",
+    "column": "E",
+    "search_str": "מֵאָ֑ז{{ר1}}מֵעוֹלָ֣ם",
+    "replace_str": "מֵאָ֑ז{{ר1}}מֵ֖עוֹלָ֣ם"
+  },
+  {
+    "sena": "ספרי אמ\"ת",
+    "bk24na_slash_chap_id": "ספר תהלים/צו",
+    "vrnu": "ח",
+    "column": "E",
+    "search_str": "שְׁמ֑וֹ{{ר1}}שְׂאֽוּ־מִ֝נְחָ֗ה",
+    "replace_str": "שְׁמ֑וֹ{{ר1}}שְׂאוּ־מִ֝נְחָ֗ה"
+  },
+  {
+    "sena": "ספרי אמ\"ת",
+    "bk24na_slash_chap_id": "ספר תהלים/קכג",
+    "vrnu": "ד",
+    "column": "E",
+    "search_str": "הַשַּֽׁאֲנַנִּ֑ים{{ר1}}הַ֝בּ֗וּז",
+    "replace_str": "הַשַּׁאֲנַנִּ֑ים{{ר1}}הַ֝בּ֗וּז"
+  },
+  {
+    "sena": "ספרי אמ\"ת",
+    "bk24na_slash_chap_id": "ספר תהלים/קלח",
+    "vrnu": "ה",
+    "column": "E",
+    "search_str": "יְהֹוָ֑ה{{ר1}}כִּֽי־גָ֝ד֗וֹל",
+    "replace_str": "יְהֹוָ֑ה{{ר1}}כִּי־גָ֝ד֗וֹל"
+  },
+  {
+    "sena": "ספרי אמ\"ת",
+    "bk24na_slash_chap_id": "ספר תהלים/קמה",
+    "vrnu": "ו",
+    "column": "E",
+    "search_str": "נֽוֹרְאֹתֶ֣יךָ",
+    "replace_str": "נוֹרְאֹתֶ֣יךָ"
+  },
+  {
+    "sena": "ספרי אמ\"ת",
+    "bk24na_slash_chap_id": "ספר תהלים/קמז",
+    "vrnu": "א",
+    "column": "E",
+    "search_str": "פתוחה}}כִּי־ט֭וֹב",
+    "replace_str": "פתוחה}}כִּֽי־ט֭וֹב"
+  },
+  {
+    "sena": "ספרי אמ\"ת",
+    "bk24na_slash_chap_id": "ספר משלי/כד",
+    "vrnu": "יט",
+    "column": "C",
+    "search_str": "//{{ר4}}",
+    "replace_str": "//{{פפ}}//"
+  },
+  {
+    "sena": "ספרי אמ\"ת",
+    "bk24na_slash_chap_id": "ספר איוב/ח",
+    "vrnu": "ג",
+    "column": "E",
+    "search_str": "יְעַוֵּת־צֶֽדֶק׃",
+    "replace_str": "{{נוסח|יְעַוֵּֽת־צֶֽדֶק|2=א=געיה ימנית באות וי\"ו}}׃"
+  }
+]
